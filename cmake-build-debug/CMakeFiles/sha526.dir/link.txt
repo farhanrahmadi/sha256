@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sha526.dir/main.cpp.o CMakeFiles/sha526.dir/sha256.cpp.o  -o sha526 
